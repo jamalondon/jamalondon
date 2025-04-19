@@ -1,6 +1,6 @@
 - Hello, the name is Bryson London. Prefer to go by Jamal though 👋🏽
 - 😁 Interested in just about anything science related. From astronomy 🪐, to micro-biology 🦠, to AI 🤖. 
-- 📚 Currently learning React Native, Java Script, Node JS, and MongoDB. I have previous expereince with Visual Basic, Python, and some Java.
+- 📚 Currently learning React Native, Java Script, Node JS, and Supabase. I have previous expereince with Visual Basic, Python, and some Java.
 - Looking to collaborate on React Native projects 🤝.
 - Best to reach me on X aka Twitter 🐦
 
